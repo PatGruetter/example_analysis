@@ -52,7 +52,7 @@ fars_summarize_years <- function(years) {
 
 fars_summarize_years(2014)
 fars_summarize_years(2014:2015)
-
+fars_summarize_years("2014")
 
 
 fars_map_state <- function(state.num, year) {
